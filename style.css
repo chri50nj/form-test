@@ -2,7 +2,8 @@
 form {
   display: grid;
   padding: 2rem;
-  border-radius: 8px;
+  border-radius: 2px;
+
   gap: 30px;
 }
 
